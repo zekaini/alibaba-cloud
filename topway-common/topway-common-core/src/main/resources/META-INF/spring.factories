@@ -1,0 +1,5 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.gdtopway.topway.common.core.config.JacksonConfiguration,\
+  com.gdtopway.topway.common.core.config.MessageSourceConfiguration,\
+  com.gdtopway.topway.common.core.config.RestTemplateConfiguration,\
+  com.gdtopway.topway.common.core.util.SpringContextHolder

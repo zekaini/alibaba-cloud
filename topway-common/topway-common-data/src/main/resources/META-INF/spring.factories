@@ -1,0 +1,10 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.gdtopway.topway.common.data.cache.RedisTemplateConfiguration,\
+    com.gdtopway.topway.common.data.cache.RedisMessageConfiguration,\
+    com.gdtopway.topway.common.data.cache.RedisCacheManagerConfiguration,\
+    com.gdtopway.topway.common.data.cache.RedisCacheAutoConfiguration,\
+    com.gdtopway.topway.common.data.tenant.TopwayTenantConfigProperties,\
+    com.gdtopway.topway.common.data.tenant.TenantContextHolderFilter,\
+    com.gdtopway.topway.common.data.tenant.TopwayTenantConfiguration,\
+    com.gdtopway.topway.common.data.mybatis.MybatisPlusConfiguration,\
+    com.gdtopway.topway.common.data.resolver.TenantKeyStrResolver

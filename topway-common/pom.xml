@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.gdtopway</groupId>
+		<artifactId>topway</artifactId>
+		<version>5.1.0</version>
+	</parent>
+
+	<artifactId>topway-common</artifactId>
+	<packaging>pom</packaging>
+
+	<description>topway 公共聚合模块</description>
+
+	<modules>
+		<module>topway-common-audit</module>
+		<module>topway-common-bom</module>
+		<module>topway-common-core</module>
+		<module>topway-common-data</module>
+		<module>topway-common-datasource</module>
+		<module>topway-common-excel</module>
+		<module>topway-common-encrypt-api</module>
+		<module>topway-common-feign</module>
+		<module>topway-common-gateway</module>
+		<module>topway-common-gray</module>
+		<module>topway-common-idempotent</module>
+		<module>topway-common-job</module>
+		<module>topway-common-log</module>
+		<module>topway-common-oss</module>
+		<module>topway-common-seata</module>
+		<module>topway-common-security</module>
+		<module>topway-common-sentinel</module>
+		<module>topway-common-sequence</module>
+		<module>topway-common-swagger</module>
+		<module>topway-common-websocket</module>
+		<module>topway-common-xss</module>
+	</modules>
+</project>

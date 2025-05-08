@@ -1,0 +1,9 @@
+com.gdtopway.topway.common.security.service.TopwayDefaultUserDetailsServiceImpl
+com.gdtopway.topway.common.security.service.TopwayTocDefaultUserDetailsServiceImpl
+com.gdtopway.topway.common.security.service.TopwayMobileUserDetailServiceImpl
+com.gdtopway.topway.common.security.service.TopwayTocMobileUserDetailsServiceImpl
+com.gdtopway.topway.common.security.service.TopwayRedisOAuth2AuthorizationService
+com.gdtopway.topway.common.security.service.TopwayRedisOAuth2AuthorizationConsentService
+com.gdtopway.topway.common.security.component.TopwaySecurityInnerAspect
+com.gdtopway.topway.common.security.component.TopwaySecurityMessageSourceConfiguration
+com.gdtopway.topway.common.security.service.TopwayRemoteRegisteredClientRepository

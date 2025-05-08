@@ -1,0 +1,10 @@
+com.gdtopway.topway.common.feign.TopwayFeignAutoConfiguration=\
+  com.gdtopway.topway.admin.api.feign.RemoteDataScopeService,\
+  com.gdtopway.topway.admin.api.feign.RemoteClientDetailsService,\
+  com.gdtopway.topway.admin.api.feign.RemoteLogService,\
+  com.gdtopway.topway.admin.api.feign.RemoteParamService,\
+  com.gdtopway.topway.admin.api.feign.RemoteTenantService,\
+  com.gdtopway.topway.admin.api.feign.RemoteTokenService,\
+  com.gdtopway.topway.admin.api.feign.RemoteUserService,\
+  com.gdtopway.topway.admin.api.feign.RemoteDictService,\
+  com.gdtopway.topway.admin.api.feign.RemoteAuditLogService

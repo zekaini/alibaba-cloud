@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.gdtopway.topway.common.sentinel.SentinelAutoConfiguration,\
+    com.gdtopway.topway.common.sentinel.handle.GlobalBizExceptionHandler

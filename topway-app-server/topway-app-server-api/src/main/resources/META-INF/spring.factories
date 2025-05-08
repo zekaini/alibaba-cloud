@@ -1,0 +1,2 @@
+com.gdtopway.topway.common.feign.TopwayFeignAutoConfiguration=\
+  com.gdtopway.topway.app.api.feign.RemoteAppUserService

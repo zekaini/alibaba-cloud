@@ -1,0 +1,12 @@
+{
+  "project": {
+    "packageName": "com.gdtopway.pigx",
+    "version": "1.0.0",
+    "backendPath": "pigx",
+    "frontendPath": "topway-ui"
+  },
+  "developer": {
+    "author": "pig",
+    "email": "sw@mail.pigx.vip"
+  }
+}

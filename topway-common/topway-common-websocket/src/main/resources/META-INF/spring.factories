@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.gdtopway.topway.common.websocket.config.WebSocketAutoConfiguration,\
+  com.gdtopway.topway.common.websocket.config.RedisMessageDistributorConfiguration,\
+  com.gdtopway.topway.common.websocket.config.LocalMessageDistributorConfiguration
